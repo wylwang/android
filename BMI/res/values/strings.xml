@@ -3,4 +3,10 @@
     <string name="advice_light">你该多吃点！</string>
     <string name="advice_average">体形很棒哦！</string>
     <string name="advice_heavy">你该减肥啦！</string>
+    <string name="about_title">关于Android BMI</string>
+    <string name="about_msg">Android BMI Calc\n作者 Wang Yonglin\n\nwylwang [at] gmail.com</string>
+    <string name="homepage_label">首页</string>
+    <string name="homepage_uri">http://androidbmi.googlecode.com/</string>
+    <string name="menu_about">关于</string>
+    <string name="menu_quit">退出</string>
 </resources>
